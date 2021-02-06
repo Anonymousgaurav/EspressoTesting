@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "965771086201",
+    "project_id": "fir-testlab-ea27a",
+    "storage_bucket": "fir-testlab-ea27a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965771086201:android:9dae745d0a88f5c20007a8",
+        "android_client_info": {
+          "package_name": "com.gaurav.espressotesting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965771086201-iqinsns923fkeveng65ldjbtji3hvhsp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gaurav.espressotesting",
+            "certificate_hash": "9e60009e52786ab3de077200c703d51e31a6e71a"
+          }
+        },
+        {
+          "client_id": "965771086201-us5meniodng7ada13gcusrbagbahvib4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQafV-UqM41EHIizq_Ym4EZ736MUT6A3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "965771086201-us5meniodng7ada13gcusrbagbahvib4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
